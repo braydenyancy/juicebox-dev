@@ -5,7 +5,8 @@
   "scripts": {
     "seed:dev": "nodemon -L ./db/seed.js",
     "start": "node index.js",
-    "dev": "nodemon -L index.js "
+    "dev": "nodemon -L index.js ",
+    "start:dev": "nodemon -L index.js"
   },
   "keywords": [],
   "author": "braydenyancy",
